@@ -1,5 +1,5 @@
 {
-    "name": "@bunnysw/back-utils",
+    "name": "back-utils",
     "version": "1.0.0",
     "description": "Pacode de utilitários comuns de back-end",
     "main": "./dist/index.js",
