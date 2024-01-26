@@ -1,0 +1,17 @@
+{
+    "name": "back-utils",
+    "version": "1.0.0",
+    "description": "Pacode de utilitários comuns de back-end",
+    "main": "./dist/index.js",
+    "dependencies": {
+        "bcryptjs": "^2.4.3",
+        "class-validator": "^0.14.1",
+        "crypto-js": "^4.2.0",
+        "mask-js": "^2.1.0",
+        "nodeenv": "^3.0.75"
+    },
+    "devDependencies": {
+        "@types/bcryptjs": "^2.4.6",
+        "@types/crypto-js": "^4.2.2"
+    }
+}
